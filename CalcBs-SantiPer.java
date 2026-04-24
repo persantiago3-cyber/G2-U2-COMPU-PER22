@@ -8,7 +8,7 @@ package com.mycompany.CalcBs;
  *
  * @author Pamela
  */
-public class CalculadoraBasica27AnggeloRosales {
+public class CalcBs{
 
     public static void main(String[] args) {
           jfrmCalc holapos=new jfrmCalc ();
